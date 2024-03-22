@@ -1,6 +1,23 @@
-# Electoral Bond Data
+# Electoral Bond Explorer
 
-## Electoral bond data in CSV format.
+Forked from - https://github.com/cvrajeesh/electoral-bond-data 
+
+## Jupyter Notebook that helps your run your own analysis.
+
+To run this on any machine -
+
+Pre-requisites - python (comes preinstalled on linux & mac. Windows users can download and install)
+
+```
+pip install notebook pandas numpy ipywidgets
+
+jupyter notebook 
+
+```
+
+and you should get a dynamic working environment where you can make queries. In case you need help making changes, feel free to use chatgpt, most of the notebook was written with the help of chatgpt and it is actually my first jupyter notebook ever. Long live AI, long live India and long live democracy in India <3.
+
+
 
 **Source:** https://www.eci.gov.in/disclosure-of-electoral-bonds
 
